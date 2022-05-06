@@ -1,1 +1,3 @@
 //Outro aquivo....
+
+// Alteração no arquivo pelo colega
